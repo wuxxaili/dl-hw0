@@ -42,5 +42,10 @@ void run_tests()
 {
     test_matrix_speed();
     //printf("%d tests, %d passed, %d failed\n", tests_total, tests_total-tests_fail, tests_fail);
+    //matrix a = random_matrix(4,3,1.0);
+    //matrix b = random_matrix(3,5,1.0);
+    //print_matrix(a);
+    //print_matrix(b);
+    //matrix c = matmul(a,b);
+    //print_matrix(c);
 }
-
